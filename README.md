@@ -4,7 +4,7 @@ Inspired by Chapter 5 of *Understanding Intelligence* by Rolf Pfeifer, Hibi is a
 
 Hibi integrates ultrasonic distance sensors and mechanical collision switches to perceive its environment and control two DC motors through an embedded microcontroller system. Its behavior is governed by a finite state machine that enables forward motion and avoidance maneuvers, while a neural-network–inspired control structure based on Hebbian learning strengthens associations between proximity sensing and avoidance actions. This allows the robot to gradually rely more on early proximity detection rather than collision events when navigating obstacles.
 
-![Hibi Robot](IMG_5558.PNG)
+![Hibi Robot](IMG_5558.png)
 
 ---
 
